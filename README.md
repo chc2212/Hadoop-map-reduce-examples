@@ -1,1 +1,2 @@
-# Web-based-information-system-of-shopping-mall
+# Hadoop-map-reduce-examples
+Hadoop map reduce examples
